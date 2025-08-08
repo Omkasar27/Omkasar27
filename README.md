@@ -37,30 +37,30 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Omkasar27&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkasar27&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkasar27&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Omkasar27&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Activity Graph
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Omkasar27&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔥 Featured Projects
 
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-1&theme=radical)](https://github.com/yourusername/awesome-project-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project-2&theme=radical)](https://github.com/yourusername/awesome-project-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Omkasar27&repo=awesome-project-1&theme=radical)](https://github.com/Omkasar27/IdeaQuill)
+
 
 </div>
 
@@ -79,8 +79,8 @@ If you find my projects helpful, consider supporting me! 🚀✨
 
 <div align="center">
   
-[![GitHub Sponsor](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/yourusername)
-[![Star My Repos](https://img.shields.io/badge/Star-My%20Repos-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yourusername?tab=repositories)
+[![GitHub Sponsor](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/Omkasar27)
+[![Star My Repos](https://img.shields.io/badge/Star-My%20Repos-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Omkasar27?tab=repositories)
 
 </div>
 
