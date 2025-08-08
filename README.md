@@ -52,14 +52,14 @@
 </div>
 
 ## 📈 Activity Graph
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Omkasar27&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Omkasar27&bg_color=0d1117&color=56d4dd&line=39c5cf&point=ffffff&area=true&hide_border=true)
 
 ## 🔥 Featured Projects
 
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Omkasar27&repo=awesome-project-1&theme=radical)](https://github.com/Omkasar27/IdeaQuill)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Omkasar27&repo=IdeaQuill&theme=radical)](https://github.com/Omkasar27/IdeaQuill)
+
 
 
 </div>
@@ -68,7 +68,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/om-kasar-630079323])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkasar27)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkasar80@gmail.com)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/omkasar27)
 </div>
