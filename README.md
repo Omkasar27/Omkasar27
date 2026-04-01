@@ -44,22 +44,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omkasar27&show_icons=true&hide_border=true&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkasar27&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=0d1117" alt="Top Languages" height="165"/>
-</div>
-
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omkasar27&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-
-## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Omkasar27&bg_color=0d1117&color=56d4dd&line=39c5cf&point=ffffff&area=true&hide_border=true)
 
 ## 🔥 Featured Projects
 
