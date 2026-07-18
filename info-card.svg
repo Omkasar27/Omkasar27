@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 234" width="490" height="234">
+
+    <style>
+      .card-bg { fill: #0d1117; }
+      .title { font-family: SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 16px; font-weight: 700; fill: #58a6ff; }
+      .divider { stroke: #30363d; stroke-width: 1; }
+      .key { font-family: SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; font-weight: 600; fill: #7ee787; }
+      .value { font-family: SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; fill: #c9d1d9; }
+      .fade-row {
+        opacity: 0;
+        animation: fade-in 0.45s ease-out forwards;
+      }
+      @keyframes fade-in {
+        from { opacity: 0; transform: translateX(-6px); }
+        to   { opacity: 1; transform: translateX(0); }
+      }
+    </style>
+<rect class="card-bg" x="0" y="0" width="490" height="234" rx="10"/>
+<text x="22" y="28" class="title">om@github</text>
+<line x1="22" y1="40" x2="468" y2="40" class="divider"/>
+<g class="fade-row" style="animation-delay:0.150s">
+  <text x="22" y="76" class="key">Now</text>
+  <text x="132" y="76" class="value">B.Tech IT @ VNR VJIET (GPA 8.79)</text>
+</g>
+<g class="fade-row" style="animation-delay:0.240s">
+  <text x="22" y="106" class="key">Prev</text>
+  <text x="132" y="106" class="value">Frontend Dev Intern @ Techlearn Solution</text>
+</g>
+<g class="fade-row" style="animation-delay:0.330s">
+  <text x="22" y="136" class="key">Stack</text>
+  <text x="132" y="136" class="value">Python · JS · React · Node.js · MongoDB</text>
+</g>
+<g class="fade-row" style="animation-delay:0.420s">
+  <text x="22" y="166" class="key">Highlights</text>
+  <text x="132" y="166" class="value">Agentic AI UPI resolver, RL trading agent</text>
+</g>
+<g class="fade-row" style="animation-delay:0.510s">
+  <text x="22" y="196" class="key">Location</text>
+  <text x="132" y="196" class="value">Hyderabad, India</text>
+</g>
+</svg>

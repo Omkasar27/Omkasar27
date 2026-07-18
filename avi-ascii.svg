@@ -1,0 +1,414 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 858" width="816" height="858">
+
+    <style>
+      .ascii-bg { fill: #0d1117; }
+      text {
+        font-family: SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;
+        font-size: 13px;
+        fill: #c9d1d9;
+        white-space: pre;
+      }
+      .cursor { fill: #58a6ff; }
+      @keyframes wipe {
+        from { width: 0; }
+        to   { width: 816px; }
+      }
+      @keyframes cursor-move {
+        0%   { transform: translateX(0); opacity: 1; }
+        92%  { opacity: 1; }
+        100% { transform: translateX(816px); opacity: 0; }
+      }
+      .wipe-rect {
+        animation: wipe 0.5s linear forwards;
+      }
+      .cursor-rect {
+        animation: cursor-move 0.5s linear forwards;
+      }
+    </style>
+<rect class="ascii-bg" x="0" y="0" width="816" height="858" rx="10"/>
+<clipPath id="clip-row-0">
+  <rect class="wipe-rect" x="0" y="18.0" width="0" height="16.95" style="animation-delay:0.000s"/>
+</clipPath>
+<g clip-path="url(#clip-row-0)">
+  <text x="18" y="29.2" xml:space="preserve">                                                      .``.                                          </text>
+</g>
+<rect class="cursor-rect" x="18" y="18.0" width="7.8" height="14.9" style="animation-delay:0.000s"/>
+<clipPath id="clip-row-1">
+  <rect class="wipe-rect" x="0" y="32.95" width="0" height="16.95" style="animation-delay:0.045s"/>
+</clipPath>
+<g clip-path="url(#clip-row-1)">
+  <text x="18" y="44.2" xml:space="preserve">                                        ..`````.       .`=:                                         </text>
+</g>
+<rect class="cursor-rect" x="18" y="32.95" width="7.8" height="14.9" style="animation-delay:0.045s"/>
+<clipPath id="clip-row-2">
+  <rect class="wipe-rect" x="0" y="47.9" width="0" height="16.95" style="animation-delay:0.090s"/>
+</clipPath>
+<g clip-path="url(#clip-row-2)">
+  <text x="18" y="59.1" xml:space="preserve">                                     ..```:----==---::::-s*..``````` ..                             </text>
+</g>
+<rect class="cursor-rect" x="18" y="47.9" width="7.8" height="14.9" style="animation-delay:0.090s"/>
+<clipPath id="clip-row-3">
+  <rect class="wipe-rect" x="0" y="62.849999999999994" width="0" height="16.95" style="animation-delay:0.135s"/>
+</clipPath>
+<g clip-path="url(#clip-row-3)">
+  <text x="18" y="74.1" xml:space="preserve">                                    .`::=++*sccsscc****c#%#ccss*=--=--:.                            </text>
+</g>
+<rect class="cursor-rect" x="18" y="62.849999999999994" width="7.8" height="14.9" style="animation-delay:0.135s"/>
+<clipPath id="clip-row-4">
+  <rect class="wipe-rect" x="0" y="77.8" width="0" height="16.95" style="animation-delay:0.180s"/>
+</clipPath>
+<g clip-path="url(#clip-row-4)">
+  <text x="18" y="89.0" xml:space="preserve">                                   .`:-=+*cccccccccccss#%#ssss###ssc+=`.                            </text>
+</g>
+<rect class="cursor-rect" x="18" y="77.8" width="7.8" height="14.9" style="animation-delay:0.180s"/>
+<clipPath id="clip-row-5">
+  <rect class="wipe-rect" x="0" y="92.75" width="0" height="16.95" style="animation-delay:0.225s"/>
+</clipPath>
+<g clip-path="url(#clip-row-5)">
+  <text x="18" y="104.0" xml:space="preserve">                                 ..`::=+*******+++**ccccccccs###sss#####c-.                         </text>
+</g>
+<rect class="cursor-rect" x="18" y="92.75" width="7.8" height="14.9" style="animation-delay:0.225s"/>
+<clipPath id="clip-row-6">
+  <rect class="wipe-rect" x="0" y="107.69999999999999" width="0" height="16.95" style="animation-delay:0.270s"/>
+</clipPath>
+<g clip-path="url(#clip-row-6)">
+  <text x="18" y="118.9" xml:space="preserve">                               .````:::=+*c*++++=-=++++====+**cscc*cccs#sc*`                        </text>
+</g>
+<rect class="cursor-rect" x="18" y="107.69999999999999" width="7.8" height="14.9" style="animation-delay:0.270s"/>
+<clipPath id="clip-row-7">
+  <rect class="wipe-rect" x="0" y="122.64999999999999" width="0" height="16.95" style="animation-delay:0.315s"/>
+</clipPath>
+<g clip-path="url(#clip-row-7)">
+  <text x="18" y="133.9" xml:space="preserve">                             ..`:`:::::=***====-::----=----=++***++++++*ss-c:                       </text>
+</g>
+<rect class="cursor-rect" x="18" y="122.64999999999999" width="7.8" height="14.9" style="animation-delay:0.315s"/>
+<clipPath id="clip-row-8">
+  <rect class="wipe-rect" x="0" y="137.6" width="0" height="16.95" style="animation-delay:0.360s"/>
+</clipPath>
+<g clip-path="url(#clip-row-8)">
+  <text x="18" y="148.8" xml:space="preserve">                            .`::``::`:-++++-:--::--::----===+++++====-=+cs*#-                       </text>
+</g>
+<rect class="cursor-rect" x="18" y="137.6" width="7.8" height="14.9" style="animation-delay:0.360s"/>
+<clipPath id="clip-row-9">
+  <rect class="wipe-rect" x="0" y="152.54999999999998" width="0" height="16.95" style="animation-delay:0.405s"/>
+</clipPath>
+<g clip-path="url(#clip-row-9)">
+  <text x="18" y="163.8" xml:space="preserve">                           ``:-:`::``:-==+=-::--::::-====++++++==++++***css#s`.                     </text>
+</g>
+<rect class="cursor-rect" x="18" y="152.54999999999998" width="7.8" height="14.9" style="animation-delay:0.405s"/>
+<clipPath id="clip-row-10">
+  <rect class="wipe-rect" x="0" y="167.5" width="0" height="16.95" style="animation-delay:0.450s"/>
+</clipPath>
+<g clip-path="url(#clip-row-10)">
+  <text x="18" y="178.7" xml:space="preserve">                           .`--::::``:-==---:::::::-===+=+*++++==++*csscccss%%sc+`                  </text>
+</g>
+<rect class="cursor-rect" x="18" y="167.5" width="7.8" height="14.9" style="animation-delay:0.450s"/>
+<clipPath id="clip-row-11">
+  <rect class="wipe-rect" x="0" y="182.45" width="0" height="16.95" style="animation-delay:0.495s"/>
+</clipPath>
+<g clip-path="url(#clip-row-11)">
+  <text x="18" y="193.7" xml:space="preserve">                            `=-::::``::-=-::::::::`:===++***********s###sss###=:                    </text>
+</g>
+<rect class="cursor-rect" x="18" y="182.45" width="7.8" height="14.9" style="animation-delay:0.495s"/>
+<clipPath id="clip-row-12">
+  <rect class="wipe-rect" x="0" y="197.39999999999998" width="0" height="16.95" style="animation-delay:0.540s"/>
+</clipPath>
+<g clip-path="url(#clip-row-12)">
+  <text x="18" y="208.6" xml:space="preserve">                           .-==:::-::::`:---::::::`:----+*cccccccccc#%%####%%%#+:.                  </text>
+</g>
+<rect class="cursor-rect" x="18" y="197.39999999999998" width="7.8" height="14.9" style="animation-delay:0.540s"/>
+<clipPath id="clip-row-13">
+  <rect class="wipe-rect" x="0" y="212.35" width="0" height="16.95" style="animation-delay:0.585s"/>
+</clipPath>
+<g clip-path="url(#clip-row-13)">
+  <text x="18" y="223.6" xml:space="preserve">                           .:=---=-==-:`:----:----::::::=*cccccccss##%%%%%##%%cc=.                  </text>
+</g>
+<rect class="cursor-rect" x="18" y="212.35" width="7.8" height="14.9" style="animation-delay:0.585s"/>
+<clipPath id="clip-row-14">
+  <rect class="wipe-rect" x="0" y="227.29999999999998" width="0" height="16.95" style="animation-delay:0.630s"/>
+</clipPath>
+<g clip-path="url(#clip-row-14)">
+  <text x="18" y="238.5" xml:space="preserve">                           .`:--=====-``-----::-+==-``::=+*cscccccs#%%%%%%#%%%`=:                   </text>
+</g>
+<rect class="cursor-rect" x="18" y="227.29999999999998" width="7.8" height="14.9" style="animation-delay:0.630s"/>
+<clipPath id="clip-row-15">
+  <rect class="wipe-rect" x="0" y="242.25" width="0" height="16.95" style="animation-delay:0.675s"/>
+</clipPath>
+<g clip-path="url(#clip-row-15)">
+  <text x="18" y="253.5" xml:space="preserve">                           .`:---=++=--==--:``-:==:::..-=++*ccc***ss#%%%%%%%%s:`.                   </text>
+</g>
+<rect class="cursor-rect" x="18" y="242.25" width="7.8" height="14.9" style="animation-delay:0.675s"/>
+<clipPath id="clip-row-16">
+  <rect class="wipe-rect" x="0" y="257.2" width="0" height="16.95" style="animation-delay:0.720s"/>
+</clipPath>
+<g clip-path="url(#clip-row-16)">
+  <text x="18" y="268.4" xml:space="preserve">                            ..`-==++=++=+-::..`::--::`.:=+**csc+++c*:*%%%%*s%:`.                    </text>
+</g>
+<rect class="cursor-rect" x="18" y="257.2" width="7.8" height="14.9" style="animation-delay:0.720s"/>
+<clipPath id="clip-row-17">
+  <rect class="wipe-rect" x="0" y="272.15" width="0" height="16.95" style="animation-delay:0.765s"/>
+</clipPath>
+<g clip-path="url(#clip-row-17)">
+  <text x="18" y="283.4" xml:space="preserve">                             ..:-====+++==-:`  `--=:``.=++scssc++**=``%%%%-=#:.                     </text>
+</g>
+<rect class="cursor-rect" x="18" y="272.15" width="7.8" height="14.9" style="animation-delay:0.765s"/>
+<clipPath id="clip-row-18">
+  <rect class="wipe-rect" x="0" y="287.09999999999997" width="0" height="16.95" style="animation-delay:0.810s"/>
+</clipPath>
+<g clip-path="url(#clip-row-18)">
+  <text x="18" y="298.3" xml:space="preserve">                              ..`:-======----`..:+++=-=+=+s*csc**++=-:##%#`.-`                      </text>
+</g>
+<rect class="cursor-rect" x="18" y="287.09999999999997" width="7.8" height="14.9" style="animation-delay:0.810s"/>
+<clipPath id="clip-row-19">
+  <rect class="wipe-rect" x="0" y="302.05" width="0" height="16.95" style="animation-delay:0.855s"/>
+</clipPath>
+<g clip-path="url(#clip-row-19)">
+  <text x="18" y="313.3" xml:space="preserve">                              ..`:---==**-:+*++=+++++++==+++cs*c*===-+c-:+....                      </text>
+</g>
+<rect class="cursor-rect" x="18" y="302.05" width="7.8" height="14.9" style="animation-delay:0.855s"/>
+<clipPath id="clip-row-20">
+  <rect class="wipe-rect" x="0" y="317.0" width="0" height="16.95" style="animation-delay:0.900s"/>
+</clipPath>
+<g clip-path="url(#clip-row-20)">
+  <text x="18" y="328.2" xml:space="preserve">                                .`::::-+*++**c*****+++++++++**+===+cs=+:.                           </text>
+</g>
+<rect class="cursor-rect" x="18" y="317.0" width="7.8" height="14.9" style="animation-delay:0.900s"/>
+<clipPath id="clip-row-21">
+  <rect class="wipe-rect" x="0" y="331.95" width="0" height="16.95" style="animation-delay:0.945s"/>
+</clipPath>
+<g clip-path="url(#clip-row-21)">
+  <text x="18" y="343.2" xml:space="preserve">                                 .````:=+**ccc*****+++++++++++++cs%%s*-::`                          </text>
+</g>
+<rect class="cursor-rect" x="18" y="331.95" width="7.8" height="14.9" style="animation-delay:0.945s"/>
+<clipPath id="clip-row-22">
+  <rect class="wipe-rect" x="0" y="346.9" width="0" height="16.95" style="animation-delay:0.990s"/>
+</clipPath>
+<g clip-path="url(#clip-row-22)">
+  <text x="18" y="358.1" xml:space="preserve">                                  .....:=**cc*******+++++++++=-+s%@@@@#s.`:.                        </text>
+</g>
+<rect class="cursor-rect" x="18" y="346.9" width="7.8" height="14.9" style="animation-delay:0.990s"/>
+<clipPath id="clip-row-23">
+  <rect class="wipe-rect" x="0" y="361.84999999999997" width="0" height="16.95" style="animation-delay:1.035s"/>
+</clipPath>
+<g clip-path="url(#clip-row-23)">
+  <text x="18" y="373.1" xml:space="preserve">                                       .-+*****+**********+=-:==*#%sss%@c:`=.                       </text>
+</g>
+<rect class="cursor-rect" x="18" y="361.84999999999997" width="7.8" height="14.9" style="animation-delay:1.035s"/>
+<clipPath id="clip-row-24">
+  <rect class="wipe-rect" x="0" y="376.79999999999995" width="0" height="16.95" style="animation-delay:1.080s"/>
+</clipPath>
+<g clip-path="url(#clip-row-24)">
+  <text x="18" y="388.0" xml:space="preserve">                                ..    ...:=+*************+-``=+=*+=:==cs:..=.                       </text>
+</g>
+<rect class="cursor-rect" x="18" y="376.79999999999995" width="7.8" height="14.9" style="animation-delay:1.080s"/>
+<clipPath id="clip-row-25">
+  <rect class="wipe-rect" x="0" y="391.75" width="0" height="16.95" style="animation-delay:1.125s"/>
+</clipPath>
+<g clip-path="url(#clip-row-25)">
+  <text x="18" y="403.0" xml:space="preserve">                           .........   ..`:-=++++++****+-`..-+=s-=*+::``+=`-.                       </text>
+</g>
+<rect class="cursor-rect" x="18" y="391.75" width="7.8" height="14.9" style="animation-delay:1.125s"/>
+<clipPath id="clip-row-26">
+  <rect class="wipe-rect" x="0" y="406.7" width="0" height="16.95" style="animation-delay:1.170s"/>
+</clipPath>
+<g clip-path="url(#clip-row-26)">
+  <text x="18" y="417.9" xml:space="preserve">                           .....`.....  ..``::-====++=:`.  `=+*====``---.:-`                        </text>
+</g>
+<rect class="cursor-rect" x="18" y="406.7" width="7.8" height="14.9" style="animation-delay:1.170s"/>
+<clipPath id="clip-row-27">
+  <rect class="wipe-rect" x="0" y="421.65" width="0" height="16.95" style="animation-delay:1.215s"/>
+</clipPath>
+<g clip-path="url(#clip-row-27)">
+  <text x="18" y="432.9" xml:space="preserve">                           .....`.   .   .```...:::::....  `=+c:++``=====`-                         </text>
+</g>
+<rect class="cursor-rect" x="18" y="421.65" width="7.8" height="14.9" style="animation-delay:1.215s"/>
+<clipPath id="clip-row-28">
+  <rect class="wipe-rect" x="0" y="436.59999999999997" width="0" height="16.95" style="animation-delay:1.260s"/>
+</clipPath>
+<g clip-path="url(#clip-row-28)">
+  <text x="18" y="447.8" xml:space="preserve">                           .......       ........``````..  `=+c:++``:====:.                         </text>
+</g>
+<rect class="cursor-rect" x="18" y="436.59999999999997" width="7.8" height="14.9" style="animation-delay:1.260s"/>
+<clipPath id="clip-row-29">
+  <rect class="wipe-rect" x="0" y="451.54999999999995" width="0" height="16.95" style="animation-delay:1.305s"/>
+</clipPath>
+<g clip-path="url(#clip-row-29)">
+  <text x="18" y="462.8" xml:space="preserve">                              .....      ........`..```.   .=+*c-=c:```:-`                          </text>
+</g>
+<rect class="cursor-rect" x="18" y="451.54999999999995" width="7.8" height="14.9" style="animation-delay:1.305s"/>
+<clipPath id="clip-row-30">
+  <rect class="wipe-rect" x="0" y="466.5" width="0" height="16.95" style="animation-delay:1.350s"/>
+</clipPath>
+<g clip-path="url(#clip-row-30)">
+  <text x="18" y="477.7" xml:space="preserve">                             ........    ..``.......`....    ==**++++=-`.                           </text>
+</g>
+<rect class="cursor-rect" x="18" y="466.5" width="7.8" height="14.9" style="animation-delay:1.350s"/>
+<clipPath id="clip-row-31">
+  <rect class="wipe-rect" x="0" y="481.45" width="0" height="16.95" style="animation-delay:1.395s"/>
+</clipPath>
+<g clip-path="url(#clip-row-31)">
+  <text x="18" y="492.7" xml:space="preserve">                            ..........     .... .. .....      `-++***:.                             </text>
+</g>
+<rect class="cursor-rect" x="18" y="481.45" width="7.8" height="14.9" style="animation-delay:1.395s"/>
+<clipPath id="clip-row-32">
+  <rect class="wipe-rect" x="0" y="496.4" width="0" height="16.95" style="animation-delay:1.440s"/>
+</clipPath>
+<g clip-path="url(#clip-row-32)">
+  <text x="18" y="507.6" xml:space="preserve">                              ......               .``                                              </text>
+</g>
+<rect class="cursor-rect" x="18" y="496.4" width="7.8" height="14.9" style="animation-delay:1.440s"/>
+<clipPath id="clip-row-33">
+  <rect class="wipe-rect" x="0" y="511.34999999999997" width="0" height="16.95" style="animation-delay:1.485s"/>
+</clipPath>
+<g clip-path="url(#clip-row-33)">
+  <text x="18" y="522.6" xml:space="preserve">                              ..                   ..                                               </text>
+</g>
+<rect class="cursor-rect" x="18" y="511.34999999999997" width="7.8" height="14.9" style="animation-delay:1.485s"/>
+<clipPath id="clip-row-34">
+  <rect class="wipe-rect" x="0" y="526.3" width="0" height="16.95" style="animation-delay:1.530s"/>
+</clipPath>
+<g clip-path="url(#clip-row-34)">
+  <text x="18" y="537.5" xml:space="preserve">                                                                                                    </text>
+</g>
+<rect class="cursor-rect" x="18" y="526.3" width="7.8" height="14.9" style="animation-delay:1.530s"/>
+<clipPath id="clip-row-35">
+  <rect class="wipe-rect" x="0" y="541.25" width="0" height="16.95" style="animation-delay:1.575s"/>
+</clipPath>
+<g clip-path="url(#clip-row-35)">
+  <text x="18" y="552.5" xml:space="preserve">                               ..    ..                                                             </text>
+</g>
+<rect class="cursor-rect" x="18" y="541.25" width="7.8" height="14.9" style="animation-delay:1.575s"/>
+<clipPath id="clip-row-36">
+  <rect class="wipe-rect" x="0" y="556.1999999999999" width="0" height="16.95" style="animation-delay:1.620s"/>
+</clipPath>
+<g clip-path="url(#clip-row-36)">
+  <text x="18" y="567.4" xml:space="preserve">                                    ....                                                            </text>
+</g>
+<rect class="cursor-rect" x="18" y="556.1999999999999" width="7.8" height="14.9" style="animation-delay:1.620s"/>
+<clipPath id="clip-row-37">
+  <rect class="wipe-rect" x="0" y="571.15" width="0" height="16.95" style="animation-delay:1.665s"/>
+</clipPath>
+<g clip-path="url(#clip-row-37)">
+  <text x="18" y="582.4" xml:space="preserve">                                 .......                                                            </text>
+</g>
+<rect class="cursor-rect" x="18" y="571.15" width="7.8" height="14.9" style="animation-delay:1.665s"/>
+<clipPath id="clip-row-38">
+  <rect class="wipe-rect" x="0" y="586.1" width="0" height="16.95" style="animation-delay:1.710s"/>
+</clipPath>
+<g clip-path="url(#clip-row-38)">
+  <text x="18" y="597.3" xml:space="preserve">                                 ....                                                               </text>
+</g>
+<rect class="cursor-rect" x="18" y="586.1" width="7.8" height="14.9" style="animation-delay:1.710s"/>
+<clipPath id="clip-row-39">
+  <rect class="wipe-rect" x="0" y="601.05" width="0" height="16.95" style="animation-delay:1.755s"/>
+</clipPath>
+<g clip-path="url(#clip-row-39)">
+  <text x="18" y="612.3" xml:space="preserve">                                    .                                                               </text>
+</g>
+<rect class="cursor-rect" x="18" y="601.05" width="7.8" height="14.9" style="animation-delay:1.755s"/>
+<clipPath id="clip-row-40">
+  <rect class="wipe-rect" x="0" y="616.0" width="0" height="16.95" style="animation-delay:1.800s"/>
+</clipPath>
+<g clip-path="url(#clip-row-40)">
+  <text x="18" y="627.2" xml:space="preserve">                             ..                                                                     </text>
+</g>
+<rect class="cursor-rect" x="18" y="616.0" width="7.8" height="14.9" style="animation-delay:1.800s"/>
+<clipPath id="clip-row-41">
+  <rect class="wipe-rect" x="0" y="630.9499999999999" width="0" height="16.95" style="animation-delay:1.845s"/>
+</clipPath>
+<g clip-path="url(#clip-row-41)">
+  <text x="18" y="642.2" xml:space="preserve">                           ........ .                                                               </text>
+</g>
+<rect class="cursor-rect" x="18" y="630.9499999999999" width="7.8" height="14.9" style="animation-delay:1.845s"/>
+<clipPath id="clip-row-42">
+  <rect class="wipe-rect" x="0" y="645.9" width="0" height="16.95" style="animation-delay:1.890s"/>
+</clipPath>
+<g clip-path="url(#clip-row-42)">
+  <text x="18" y="657.1" xml:space="preserve">                             .......                                                                </text>
+</g>
+<rect class="cursor-rect" x="18" y="645.9" width="7.8" height="14.9" style="animation-delay:1.890s"/>
+<clipPath id="clip-row-43">
+  <rect class="wipe-rect" x="0" y="660.85" width="0" height="16.95" style="animation-delay:1.935s"/>
+</clipPath>
+<g clip-path="url(#clip-row-43)">
+  <text x="18" y="672.1" xml:space="preserve">                             ......                                                                 </text>
+</g>
+<rect class="cursor-rect" x="18" y="660.85" width="7.8" height="14.9" style="animation-delay:1.935s"/>
+<clipPath id="clip-row-44">
+  <rect class="wipe-rect" x="0" y="675.8" width="0" height="16.95" style="animation-delay:1.980s"/>
+</clipPath>
+<g clip-path="url(#clip-row-44)">
+  <text x="18" y="687.0" xml:space="preserve">                                ..                                                                  </text>
+</g>
+<rect class="cursor-rect" x="18" y="675.8" width="7.8" height="14.9" style="animation-delay:1.980s"/>
+<clipPath id="clip-row-45">
+  <rect class="wipe-rect" x="0" y="690.75" width="0" height="16.95" style="animation-delay:2.025s"/>
+</clipPath>
+<g clip-path="url(#clip-row-45)">
+  <text x="18" y="702.0" xml:space="preserve">                                                                                                    </text>
+</g>
+<rect class="cursor-rect" x="18" y="690.75" width="7.8" height="14.9" style="animation-delay:2.025s"/>
+<clipPath id="clip-row-46">
+  <rect class="wipe-rect" x="0" y="705.6999999999999" width="0" height="16.95" style="animation-delay:2.070s"/>
+</clipPath>
+<g clip-path="url(#clip-row-46)">
+  <text x="18" y="716.9" xml:space="preserve">                                                                                                    </text>
+</g>
+<rect class="cursor-rect" x="18" y="705.6999999999999" width="7.8" height="14.9" style="animation-delay:2.070s"/>
+<clipPath id="clip-row-47">
+  <rect class="wipe-rect" x="0" y="720.65" width="0" height="16.95" style="animation-delay:2.115s"/>
+</clipPath>
+<g clip-path="url(#clip-row-47)">
+  <text x="18" y="731.9" xml:space="preserve">                                                                                                    </text>
+</g>
+<rect class="cursor-rect" x="18" y="720.65" width="7.8" height="14.9" style="animation-delay:2.115s"/>
+<clipPath id="clip-row-48">
+  <rect class="wipe-rect" x="0" y="735.5999999999999" width="0" height="16.95" style="animation-delay:2.160s"/>
+</clipPath>
+<g clip-path="url(#clip-row-48)">
+  <text x="18" y="746.8" xml:space="preserve">                                                                                                    </text>
+</g>
+<rect class="cursor-rect" x="18" y="735.5999999999999" width="7.8" height="14.9" style="animation-delay:2.160s"/>
+<clipPath id="clip-row-49">
+  <rect class="wipe-rect" x="0" y="750.55" width="0" height="16.95" style="animation-delay:2.205s"/>
+</clipPath>
+<g clip-path="url(#clip-row-49)">
+  <text x="18" y="761.8" xml:space="preserve">                                                                                                    </text>
+</g>
+<rect class="cursor-rect" x="18" y="750.55" width="7.8" height="14.9" style="animation-delay:2.205s"/>
+<clipPath id="clip-row-50">
+  <rect class="wipe-rect" x="0" y="765.5" width="0" height="16.95" style="animation-delay:2.250s"/>
+</clipPath>
+<g clip-path="url(#clip-row-50)">
+  <text x="18" y="776.7" xml:space="preserve">                                                                                                    </text>
+</g>
+<rect class="cursor-rect" x="18" y="765.5" width="7.8" height="14.9" style="animation-delay:2.250s"/>
+<clipPath id="clip-row-51">
+  <rect class="wipe-rect" x="0" y="780.4499999999999" width="0" height="16.95" style="animation-delay:2.295s"/>
+</clipPath>
+<g clip-path="url(#clip-row-51)">
+  <text x="18" y="791.7" xml:space="preserve">                                                                                                    </text>
+</g>
+<rect class="cursor-rect" x="18" y="780.4499999999999" width="7.8" height="14.9" style="animation-delay:2.295s"/>
+<clipPath id="clip-row-52">
+  <rect class="wipe-rect" x="0" y="795.4" width="0" height="16.95" style="animation-delay:2.340s"/>
+</clipPath>
+<g clip-path="url(#clip-row-52)">
+  <text x="18" y="806.6" xml:space="preserve">                                                                                                    </text>
+</g>
+<rect class="cursor-rect" x="18" y="795.4" width="7.8" height="14.9" style="animation-delay:2.340s"/>
+<clipPath id="clip-row-53">
+  <rect class="wipe-rect" x="0" y="810.3499999999999" width="0" height="16.95" style="animation-delay:2.385s"/>
+</clipPath>
+<g clip-path="url(#clip-row-53)">
+  <text x="18" y="821.6" xml:space="preserve">                                                                                                    </text>
+</g>
+<rect class="cursor-rect" x="18" y="810.3499999999999" width="7.8" height="14.9" style="animation-delay:2.385s"/>
+<clipPath id="clip-row-54">
+  <rect class="wipe-rect" x="0" y="825.3" width="0" height="16.95" style="animation-delay:2.430s"/>
+</clipPath>
+<g clip-path="url(#clip-row-54)">
+  <text x="18" y="836.5" xml:space="preserve">                                                                                                    </text>
+</g>
+<rect class="cursor-rect" x="18" y="825.3" width="7.8" height="14.9" style="animation-delay:2.430s"/>
+</svg>
